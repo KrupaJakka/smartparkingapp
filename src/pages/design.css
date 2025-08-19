@@ -1,0 +1,9 @@
+.start-page{
+     height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to top, #242322, #9c9793);
+  color: white;
+  font-family: Arial, sans-serif;
+}

@@ -5,7 +5,7 @@ function Home(){
         <div>
             <h1>Location </h1>
             <form>
-              <input type="search" placeholder="Search "/>  
+              <input type="search" placeholder="Search"/>  
             </form>
         </div>
     );
